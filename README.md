@@ -60,7 +60,7 @@ Not as easy as the tutorials make it! I've been tripped up at the very first ins
 
 Click on the App Store, search for XCode and install it. You may as well go make a cup of tea at this stage as it's a big ol' download at over 2GB.
 
-![alt text](images/6-Install-xcode.png "Install XCode")
+![alt text](images/6-install-xcode.png "Install XCode")
 
 Once XCode is installed, open it and accept the terms and conditions and the installation will finalise.
 
